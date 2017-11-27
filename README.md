@@ -46,8 +46,11 @@ All scripts and node.js files can be found here:
 Final project files have been uploaded as a zip here:
 <br>https://github.com/DaniellaOLee/DL-Bench-2017/blob/master/Elasticsearch%20Repo%20July%202017.zip
 
+### Current work:
+Editing Elasticsearch repository documentation, part 1 (ES Repo setup) complete, files available here:
+<br>https://github.com/DaniellaOLee/DL-Bench-2017/blob/master/Current%20Work/Part%201%20Repository%20Setup.zip
 
-27/11/2017
-Current work:
-Editing Elasticsearch repository documentation
-Continuing my Terraform tool research
+<br>Continuing my Terraform tool research, v2 available here:
+<br>https://github.com/DaniellaOLee/DL-Bench-2017/blob/master/Current%20Work/Terraform%20User%20Notes%20v2.docx
+
+
