@@ -14,6 +14,7 @@ Repeat of the Pipeline Project from Academy Training
 <br> Worked on improved automation of container configuration, automation of jenkins ,aven build using a pipeline script.
 
 Final project files have been uploaded as a zip here:
+<br>https://github.com/DaniellaOLee/DL-Bench-2017/blob/master/KPMG%20Pipeline%20June%2017.zip
 
 ### Google Cloud Pipeline Project - July 2017
 ##### Members: Daniella Lee, Spiros Pasparakis, Pawan Uppadey, Azim Malik, Michael Wozniak
@@ -25,23 +26,25 @@ Repeat of the Pipeline Project, using new tools:
 
 Returning tools were: Docker, Jenkins, Nexus, Sonarqube, Tomcat
 
+All scripts can be found here:
+<br>https://github.com/pawnu/Puppet-GCE-Team2
+
 Final project files have been uploaded as a zip here:
+<br>https://github.com/DaniellaOLee/DL-Bench-2017/blob/master/Google%20Cloud%20July%202017.zip
 
 ### Elasticsearch Repository Project - August 2017 - November 2017, with 1 month hiatus
 
-##### Stage 1, Dates: July – August 2017
-###### Members: Tim Perry, Tim Goodwin, Daniella Lee, Spiros Pasparakis, Mohin Akhtar)
+##### Stage 1, Dates: July – August 2017 <br>Members: Tim Perry, Tim Goodwin, Daniella Lee, Spiros Pasparakis, Mohin Akhtar)
 
 All scripts and node.js files can be found here:
-https://github.com/TimPerry1994/Elastic-Repo
+<br>https://github.com/TimPerry1994/Elastic-Repo
 
-##### Hiatus
-###### Other engagements e.g. Client interviews and assessments
+##### Hiatus <br>Other engagements e.g. Client interviews and assessments
 
-##### Stage 2, Dates: October – November 2017
-###### Members: Tim Goodwin, Daniella Lee, Louy Heidar
+##### Stage 2, Dates: October – November 2017 <br>Members: Tim Goodwin, Daniella Lee, Louy Heidar
 
 Final project files have been uploaded as a zip here:
+<br>https://github.com/DaniellaOLee/DL-Bench-2017/blob/master/Elasticsearch%20Repo%20July%202017.zip
 
 
 27/11/2017
