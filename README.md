@@ -1,9 +1,13 @@
 # DL-Bench-2017
-### Group and individual work carried out while on the bench since April 2017
+#### Group and individual work carried out while on the bench since April 2017
 
 Past project documentation and supporting files have been uploaded as zip folders
 <br> This readme also contains links to other git repositories where applicable
 <br> Current files e.g. word documents, scripts have been uploaded to the folder 'Current Work'
+
+### April - June 2017
+I spent the first few weeks on the bench studying using my pluralsight 3 month free trial and going back through my academy work.
+From May onwards, my deployment prep was mainly focused on DevOps
 
 ### KPMG Deployment Project - June 2017
 ##### Members: Daniella Lee and Timothy Goodwin
@@ -32,7 +36,7 @@ All scripts can be found here:
 Final project files have been uploaded as a zip here:
 <br>https://github.com/DaniellaOLee/DL-Bench-2017/blob/master/Google%20Cloud%20July%202017.zip
 
-### Elasticsearch Repository Project - August 2017 - November 2017, with 1 month hiatus
+### Elasticsearch Repository Project - July 2017 - November 2017, with ~2 month hiatus
 
 ##### Stage 1, Dates: July – August 2017 <br>Members: Tim Perry, Tim Goodwin, Daniella Lee, Spiros Pasparakis, Mohin Akhtar)
 
